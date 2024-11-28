@@ -1,0 +1,1 @@
+<a href="{{route('format')}}" class="btn btn-primary">format</a>
